@@ -32,5 +32,4 @@ Me :-), pavl_g.
 
 ### Project Architecture : --WIP--
 
-### How to edit the project for your games : 
-https://github.com/jMonkeyEngine-SpaceShift-Editor/SS-Editor/wiki
+### [How to edit the project for your games :](https://github.com/jMonkeyEngine-SpaceShift-Editor/SS-Editor/wiki) 
