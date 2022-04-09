@@ -1,4 +1,4 @@
-## jMonkeyEngine SpaceShift 3D Scene editor : 
+## A custom jMonkeyEngine 3D Scene editor : 
 
 ### Original author : 
 Alexandr Brui also known as JavaSaBr.
