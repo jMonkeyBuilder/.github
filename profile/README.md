@@ -31,3 +31,6 @@ Me :-), pavl_g.
 ### Design patterns : --WIP--
 
 ### Project Architecture : --WIP--
+
+### How to edit the project for your games : 
+https://github.com/jMonkeyEngine-SpaceShift-Editor/SS-Editor/wiki
